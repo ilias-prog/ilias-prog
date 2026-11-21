@@ -33,7 +33,9 @@ I am Ilias Azem, a third-year student in the Licence in Computer Development at 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/ilias-azem-442ab32a6?utm_source=share_via&utm_content=profile&utm_medium=member_ios)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ilias-azem-442ab32a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   <a href="mailto:iliasazem980@gamil.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
